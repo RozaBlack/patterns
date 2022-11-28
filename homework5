@@ -1,0 +1,44 @@
+Задание:
+1. Применение паттерна «Посетитель»
+Сделать логирование динамических объектов с помощью паттерна «Посетитель».
+
+2. Применение паттерна «Наблюдатель»
+Сделать бомбы Observable объектом с функцией AddObserver, у которой есть наблюдатели — массив объектов, которые можно разрушать. А наблюдатели имеют функцию HandleInsideCheck. При пересечении бомбы с землёй будет вызываться функция:
+pBomb->CheckDestoyableObjects();
+В которой в цикле для всех наблюдателей вызывается функция-событие HandleInsideCheck. Если проверка вернула true, то возвращаем указатель на этот DestroyableGroundObject в класс SBomber для подсчёта очков за уничтожение объекта и удаление объекта из массива статических объектов. Если ни один объект не был уничтожен, пусть возвращается nullptr.
+То есть необходимо переделать функцию:
+void SBomber::CheckDestoyableObjects(Bomb * pBomb)
+{
+vector<DestroyableGroundObject*> vecDestoyableObjects = FindDestoyableGroundObjects();
+const double size = pBomb->GetWidth();
+const double size_2 = size / 2;
+for (size_t i = 0; i < vecDestoyableObjects.size(); i++)
+{
+const double x1 = pBomb->GetX() - size_2;
+const double x2 = x1 + size;
+if (vecDestoyableObjects[i]->isInside(x1, x2))
+{
+score += vecDestoyableObjects[i]->GetScore();
+DeleteStaticObj(vecDestoyableObjects[i]);
+}
+}
+}
+
+Перенеся эту функциональность в класс Bomb. А также нужно изменить следующую функцию, откуда будет вызываться вышестоящая функция:
+
+void SBomber::CheckBombsAndGround()
+{
+vector<Bomb*> vecBombs = FindAllBombs();
+Ground* pGround = FindGround();
+const double y = pGround->GetY();
+for (size_t i = 0; i < vecBombs.size(); i++)
+{
+if (vecBombs[i]->GetY() >= y) // Пересечение бомбы с землей
+{
+pGround->AddCrater(vecBombs[i]->GetX());
+CheckDestoyableObjects(vecBombs[i]);
+DeleteDynamicObj(vecBombs[i]);
+}
+}
+}
+//В процессе выполнения
