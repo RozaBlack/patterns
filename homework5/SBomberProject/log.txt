@@ -1,0 +1,500 @@
+Wed Dec 28 23:59:49 2022 - SBomber::SBomber was invoked
+Wed Dec 28 23:59:49 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:49 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:49 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:49 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:49 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:49 2022 - SBomber::TimeFinish deltaTime = 63
+Wed Dec 28 23:59:49 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:49 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:49 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:49 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:49 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:49 2022 - SBomber::TimeFinish deltaTime = 31
+Wed Dec 28 23:59:49 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:49 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:49 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:49 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:49 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:49 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:49 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:49 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:49 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:49 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:49 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:49 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:49 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:49 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:49 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:49 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:49 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:49 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:49 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:49 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:49 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:49 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:49 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:49 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:49 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:49 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:49 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:49 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:49 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:49 2022 - SBomber::TimeFinish deltaTime = 62
+Wed Dec 28 23:59:49 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:49 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:50 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:50 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:50 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:50 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:50 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:50 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:50 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:50 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::TimeFinish deltaTime = 31
+Wed Dec 28 23:59:50 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:50 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:50 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:50 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:50 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:50 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:50 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:50 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:50 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::TimeFinish deltaTime = 62
+Wed Dec 28 23:59:50 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:50 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:50 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:50 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:50 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:50 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:50 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:50 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:50 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::TimeFinish deltaTime = 63
+Wed Dec 28 23:59:50 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:50 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:50 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:50 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:50 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:50 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::TimeFinish deltaTime = 109
+Wed Dec 28 23:59:50 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:50 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:50 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::TimeFinish deltaTime = 62
+Wed Dec 28 23:59:50 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:50 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:50 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::TimeFinish deltaTime = 94
+Wed Dec 28 23:59:50 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:50 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:50 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::TimeFinish deltaTime = 110
+Wed Dec 28 23:59:50 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:50 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:50 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::TimeFinish deltaTime = 78
+Wed Dec 28 23:59:50 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:50 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:50 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:50 2022 - SBomber::TimeFinish deltaTime = 78
+Wed Dec 28 23:59:50 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:51 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:51 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::TimeFinish deltaTime = 78
+Wed Dec 28 23:59:51 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:51 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:51 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::TimeFinish deltaTime = 78
+Wed Dec 28 23:59:51 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:51 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:51 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:51 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:51 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:51 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:51 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:51 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:51 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::TimeFinish deltaTime = 62
+Wed Dec 28 23:59:51 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:51 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:51 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::TimeFinish deltaTime = 63
+Wed Dec 28 23:59:51 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:51 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:51 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::TimeFinish deltaTime = 62
+Wed Dec 28 23:59:51 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:51 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:51 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::TimeFinish deltaTime = 63
+Wed Dec 28 23:59:51 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:51 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:51 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::TimeFinish deltaTime = 31
+Wed Dec 28 23:59:51 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:51 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:51 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:51 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:51 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:51 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:51 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:51 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:51 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:51 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:51 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:51 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:51 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:51 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:51 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::TimeFinish deltaTime = 46
+Wed Dec 28 23:59:51 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:51 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:51 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:51 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:51 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:51 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::TimeFinish deltaTime = 32
+Wed Dec 28 23:59:51 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:51 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:51 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::TimeFinish deltaTime = 46
+Wed Dec 28 23:59:51 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:51 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:51 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:51 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:51 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:51 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:51 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:51 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:52 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:52 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:52 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:52 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:52 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::TimeFinish deltaTime = 63
+Wed Dec 28 23:59:52 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:52 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:52 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::TimeFinish deltaTime = 46
+Wed Dec 28 23:59:52 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:52 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:52 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::TimeFinish deltaTime = 63
+Wed Dec 28 23:59:52 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:52 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:52 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:52 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:52 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:52 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:52 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:52 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:52 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:52 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:52 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:52 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::TimeFinish deltaTime = 46
+Wed Dec 28 23:59:52 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:52 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:52 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:52 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:52 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:52 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:52 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:52 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:52 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:52 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:52 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:52 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:52 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:52 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:52 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:52 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:52 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:52 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:52 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:52 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:52 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:52 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:52 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:52 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::TimeFinish deltaTime = 46
+Wed Dec 28 23:59:52 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:52 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:52 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:52 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:52 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:52 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:52 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:52 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:52 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::TimeFinish deltaTime = 31
+Wed Dec 28 23:59:52 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:52 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:52 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:52 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:52 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:52 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:52 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:52 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:53 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:53 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::TimeFinish deltaTime = 31
+Wed Dec 28 23:59:53 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:53 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:53 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:53 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:53 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:53 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:53 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:53 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:53 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:53 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:53 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:53 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::TimeFinish deltaTime = 31
+Wed Dec 28 23:59:53 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:53 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:53 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:53 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:53 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:53 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:53 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:53 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:53 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:53 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:53 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:53 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:53 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:53 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:53 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:53 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:53 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:53 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:53 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:53 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:53 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::TimeFinish deltaTime = 46
+Wed Dec 28 23:59:53 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:53 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:53 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::TimeFinish deltaTime = 32
+Wed Dec 28 23:59:53 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:53 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:53 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:53 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:53 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:53 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::TimeFinish deltaTime = 31
+Wed Dec 28 23:59:53 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:53 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:53 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::TimeFinish deltaTime = 62
+Wed Dec 28 23:59:53 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:53 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:53 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::TimeFinish deltaTime = 63
+Wed Dec 28 23:59:53 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:53 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:53 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::TimeFinish deltaTime = 31
+Wed Dec 28 23:59:53 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:53 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:53 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::TimeFinish deltaTime = 47
+Wed Dec 28 23:59:53 2022 - SBomber::TimeStart was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::DrawFrame was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::MoveObjects was invoked
+Wed Dec 28 23:59:53 2022 - Plane: xDirection = 1.000000; yDirection = 0.100000; Speed = 4.000000
+Wed Dec 28 23:59:53 2022 - SBomber::CheckObjects was invoked
+Wed Dec 28 23:59:53 2022 - SBomber::TimeFinish deltaTime = 62
+Wed Dec 28 23:59:53 2022 - SBomber::TimeStart was invoked
